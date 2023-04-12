@@ -1,0 +1,3 @@
+Requirements - https://lms.skillfactory.ru/assets/courseware/v1/60a782bc16f8bf6130ddf9662c79b99f/asset-v1:SkillFactory+QAP-3.0+2021+type@asset+block/QAP_10.6_%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.docx
+Docs templates - https://docs.google.com/spreadsheets/d/14LVqbdpPvL-_Ovz3wz6jDD_UsMdLo4KAvRSr25XXk68/edit?copiedFromTrash#gid=0
+Testing - https://docs.google.com/spreadsheets/d/1VhgJHcrMTGBbpf8kY2GKNXdykXkdcMlLuxFa28UPlug/edit?usp=sharing
