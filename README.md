@@ -1,2 +1,2 @@
 # pet-home
-Pet Home Documentation
+Pet Home Documentation.
