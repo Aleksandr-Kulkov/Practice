@@ -1,2 +1,2 @@
-# Pet_Home
+# pet-home
 Pet Home Documentation
